@@ -1,4 +1,4 @@
-https://github.com/blacktiger141
+Bng.py
   <h1 align="center">Bngv1.0</h1>
  <p align="center">
        A new international facebook account cracker tool for termux users
@@ -23,7 +23,7 @@ https://github.com/blacktiger141
  <br/>
  $ pkg install openssh
  <br/>
- $ git clone https://github.com/botolmehedi/bint
+ $ git clone https://github.com/blacktiget141/Bng.py
  <br/>
  $ pip2 install requests
  <br/>
